@@ -1,0 +1,12 @@
+Command:
+./analyze.sh test.txt
+
+Explanation:
+This command runs the script using a file as input. The script detects it as a file and displays the number of lines, words, and characters.
+
+Command:
+./analyze.sh .
+
+Explanation:
+This command runs the script using a directory as input. The script counts the total number of files and the number of .txt files inside the directory.
+
