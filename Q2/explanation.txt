@@ -1,0 +1,5 @@
+Command:
+./log_analyzer.sh system.log
+
+Explanation:
+This command runs the script using a log file as input. The script validates the file, counts total log entries and the number of INFO, WARNING, and ERROR messages, displays the most recent ERROR, and generates a summary report file.
