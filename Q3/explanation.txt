@@ -1,0 +1,6 @@
+Command:
+./validate_results.sh
+
+Explanation:
+This command reads student records from marks.txt, checks how many subjects each student failed, prints students who failed exactly one subject and those who passed all subjects, and displays the count of both categories.
+

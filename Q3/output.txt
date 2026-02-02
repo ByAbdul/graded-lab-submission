@@ -1,0 +1,7 @@
+Passed all subjects: 1 Ali
+Failed in one subject: 2 Sara
+Failed in one subject: 3 John
+Passed all subjects: 4 Mike
+Passed all subjects:  
+Count of students failed in one subject: 2
+Count of students passed all subjects: 3
