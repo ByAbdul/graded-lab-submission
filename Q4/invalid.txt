@@ -1,0 +1,3 @@
+bademail@
+user@site
+wrong@.com

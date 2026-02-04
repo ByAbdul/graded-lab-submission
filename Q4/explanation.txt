@@ -1,0 +1,5 @@
+Command:
+./emailcleaner.sh
+
+Explanation:
+This command scans emails.txt using grep patterns to extract valid email addresses into valid.txt, extracts invalid ones into invalid.txt, and removes duplicate valid emails using sort and uniq.

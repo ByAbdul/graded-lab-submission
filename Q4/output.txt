@@ -1,0 +1,1 @@
+Valid and invalid emails have been separated.
