@@ -1,0 +1,5 @@
+Command:
+./sync.sh
+
+Explanation:
+This command compares the contents of dirA and dirB. It lists files unique to each directory and uses cmp to check whether files with the same name have identical contents.

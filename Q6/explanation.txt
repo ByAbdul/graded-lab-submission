@@ -1,0 +1,5 @@
+Command:
+./metrics.sh
+
+Explanation:
+This command processes words from input.txt, calculates the longest and shortest words, computes the average word length, and counts the number of unique words using pipes and text processing commands.
