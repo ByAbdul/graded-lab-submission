@@ -1,0 +1,2 @@
+Parent received SIGTERM
+Parent received SIGINT. Exiting gracefully.

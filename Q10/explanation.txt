@@ -1,0 +1,5 @@
+Command:
+./signal_demo
+
+Explanation:
+This program installs signal handlers for SIGTERM and SIGINT in the parent process. One child sends SIGTERM after 5 seconds and another sends SIGINT after 10 seconds. The parent handles each signal and exits gracefully.
