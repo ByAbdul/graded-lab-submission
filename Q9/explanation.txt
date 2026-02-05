@@ -1,0 +1,5 @@
+Command:
+./zombie_prevention
+
+Explanation:
+This program creates multiple child processes using fork(). The parent process waits for each child using wait() and prints the PID of every child it cleans, preventing zombie processes.

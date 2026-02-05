@@ -1,0 +1,6 @@
+Child process created. PID: 2481
+Child process created. PID: 2482
+Child process created. PID: 2483
+Parent cleaned child process with PID: 2481
+Parent cleaned child process with PID: 2482
+Parent cleaned child process with PID: 2483
