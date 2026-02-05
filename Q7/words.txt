@@ -1,0 +1,7 @@
+aeiou
+bbb
+cat
+sky
+loop
+why
+queue

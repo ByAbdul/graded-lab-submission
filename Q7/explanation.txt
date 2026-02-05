@@ -1,0 +1,5 @@
+Command:
+./patterns.sh
+
+Explanation:
+This command reads words from input.txt, separates words containing only vowels, only consonants, and mixed words starting with a consonant into different files using grep pattern matching.

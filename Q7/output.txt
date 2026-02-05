@@ -1,0 +1,1 @@
+Patterns separated into vowels.txt, consonants.txt and mixed.txt
