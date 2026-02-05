@@ -1,0 +1,5 @@
+Command:
+./bg_move.sh testdir
+
+Explanation:
+This command moves all files from the given directory into a backup folder using background processes, prints the PID of each move operation, and waits until all background jobs finish.
